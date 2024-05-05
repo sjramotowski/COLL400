@@ -1,6 +1,8 @@
 # COLL400
 Repository for my COLL400 project
 
+COLL400Project.pdf contains my project report.
+
 Ramotowski_COLL400.pptx contains the slides I used to present in class
 Ramotowski_COLL400_white.pptx is a version of my slides that uses a blank them, I extracted screenshots from this to use in my report
 
